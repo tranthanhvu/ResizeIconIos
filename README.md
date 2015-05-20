@@ -2,7 +2,7 @@
 using apple script to resize icon with multiple size for iOS 
 
 # Image
-![alt tag](https://raw.github.com/tranthanhvu/ResizeIconIos/blob/master/Images/AppleScript.png)
+![alt tag](https://github.com/tranthanhvu/ResizeIconIos/blob/master/Images/AppleScript.png)
 
 # Guide
 - open script
